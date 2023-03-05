@@ -19,4 +19,4 @@ SOC pin is used to take input from the BMS which gives 0-5V depending on the SOC
 
 ## Execution
 
-
+![WhatsApp Image 2023-03-05 at 12 13 56](https://user-images.githubusercontent.com/97510626/222983946-e31d566f-dc6e-4b17-9818-b0fcfe9fb2ad.jpeg)
