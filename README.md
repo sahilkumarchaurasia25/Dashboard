@@ -1,6 +1,7 @@
 # SOC indication in 7 segment display using Atmega 8A
 
 ## Schematic
+adas
 
 ![dashboard](https://user-images.githubusercontent.com/97510626/222979287-5e15d80a-522c-4e2c-8404-3579f29e4f91.JPG)
 
